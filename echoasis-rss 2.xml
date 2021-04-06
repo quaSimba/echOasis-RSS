@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>echOasis</title>
+    <link>https://www.facebook.com/kikero.unibz/</link>
+    <language>en</language>
+    <copyright>CC BY-NC-SA 4.0</copyright>
+    <itunes:author>Simon Barthmuß</itunes:author>
+    <description>
+      Feeling desolate in the digital wasteland of unibz? You are not alone. Enjoy the company and listen to the voices of others at this pond. Get away from your computer; connect with your surroundings and yourself, instead. I&apos;m Simon and together with
+      my guests, we will explore happiness and stress on the online unibz campus. Allow yourself a break from the ever-present screens and listen to the people of unibz, such as students, teachers, administrative staff, researchers…
+    </description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>k!kero</itunes:name>
+      <itunes:email>sbarthmuss@unibz.it</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://meetme.inf.unibz.it/apps/files_sharing/publicpreview/HQ2JFBsga9eMpPT?x=1171&y=575&a=true&file=echoasis-cover.png"/>
+    <itunes:category text="Society &amp; Culture"></itunes:category>
+    <itunes:explicit>true</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <title>Martina Spinelli, President of k!kero</title>
+      <description>In this episode, Martina Spinelli and I will explore the importance of culture for a healthy university community and discuss k!kero&apos;s attempts to offer a program despite virtual separation. How might we connect outside of the online classroom? Which are the main difficulties for k!kero? How can we all destress a bit together?
+
+      Join us on a walk and conclude with a meditation at your favourite spot!
+
+      (00:00) Intro
+      (03:19) Introducing Martina Spinelli, kikero and her role in it
+      (09:50) Cultural offers at unibz
+      (13:50) Communicating culture online
+      (16:35) Martina personally
+      (23:00) Online offers to destress
+      (29:10) Outro and meditation
+
+      Music by Aaron Ximm, licensed under CC BY-NC-SA. Available at  <![CDATA[<a href="https://freemusicarchive.org/music/Aaron_Ximm/Handpans_and_the_Hang">the Free Music Archive</a>]]>
+      </description>
+      <enclosure length="43733674" type="audio/x-m4a" url="https://meetme.inf.unibz.it/s/TrFbHYJyMPx7FsF/download?path=%2F&files=ep01-Martina_Spinelli.m4a"/>
+      <guid>TrFbHYJyMPx7FsF</guid>
+      <pubDate>Mon, 05 Apr 2021 09:00:00 +0000</pubDate>
+      <itunes:duration>00:39:06</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
+  </channel>
+</rss>
